@@ -1,0 +1,149 @@
+{
+  "label": "Reporte especifico de la pagina 3 (5.8 v2)",
+  "unitsDetected": 4,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "rawText": "1. Pregunta vinculada a la imagen nº1 4. Pregunta vinculada a la imagen nº4\nMujer de 40 años con obesidad mórbida, que se Mujer de 55 años intervenida quirúrgicamente\nsomete a cirugía bariátrica. Durante la por lesión tumoral hepática. Se muestra una\nintervención quirúrgica se realiza también una imagen macroscópica del tumor y del\nbiopsia hepática. ¿Qué tipo de lesión histológica parénquima no tumoral, y una imagen\nobservamos?: microscópica del tumor, que corresponde a uno\nde los siguientes diagnósticos:\n1. Esteatosis.\n2. Esteatohepatitis. 1. Hepatocarcinoma sobre hígado normal.\n3. Cirrosis. 2. Hepatocarcinoma sobre hígado cirrótico.\n4. Hepatitis crónica. 3. Colangiocarcinoma sobre hígado normal.",
+      "optionCount": 4,
+      "options": [
+        "1) Esteatosis.",
+        "2) Esteatohepatitis. 1. Hepatocarcinoma sobre hígado normal.",
+        "3) Cirrosis. 2. Hepatocarcinoma sobre hígado cirrótico.",
+        "4) Hepatitis crónica. 3. Colangiocarcinoma sobre hígado normal."
+      ],
+      "validationStatus": "quarantined",
+      "errors": [
+        "sequence-mismatch",
+        "missing-answer"
+      ],
+      "quality": {
+        "textCompleteness": 1,
+        "questionBoundaryConfidence": 1,
+        "optionCompleteness": null,
+        "answerKeyConfidence": 0,
+        "layoutConfidence": 0.8,
+        "overallConfidence": 0.627,
+        "missingComponents": [
+          "optionCompleteness"
+        ],
+        "notes": [
+          "La página no declara geometría."
+        ]
+      },
+      "provenance": {
+        "sourceDocumentId": "pdfdoc_7df230b6810f8bd67ce9",
+        "documentVersionId": "pdfdoc_7df230b6810f8bd67ce9-v1",
+        "page": 3,
+        "pageEnd": 3
+      },
+      "detectedAnswer": null
+    },
+    {
+      "questionNumber": 4,
+      "rawText": "4. Colangiocarcinoma sobre hígado cirrótico.\n2. Pregunta vinculada a la imagen nº2",
+      "optionCount": 0,
+      "options": [],
+      "validationStatus": "quarantined",
+      "errors": [
+        "sequence-mismatch",
+        "truncated-question",
+        "missing-options",
+        "missing-answer"
+      ],
+      "quality": {
+        "textCompleteness": 1,
+        "questionBoundaryConfidence": 0.5,
+        "optionCompleteness": 0,
+        "answerKeyConfidence": 0,
+        "layoutConfidence": 0.8,
+        "overallConfidence": 0.37,
+        "missingComponents": [],
+        "notes": [
+          "La página no declara geometría."
+        ]
+      },
+      "provenance": {
+        "sourceDocumentId": "pdfdoc_7df230b6810f8bd67ce9",
+        "documentVersionId": "pdfdoc_7df230b6810f8bd67ce9-v1",
+        "page": 3,
+        "pageEnd": 3
+      },
+      "detectedAnswer": null
+    },
+    {
+      "questionNumber": 5,
+      "rawText": "5. Pregunta vinculada a la imagen nº5\nHombre de 20 años con antecedentes de asma,\nque consulta por disfagia e impactación Mujer de 50 años, sin antecedentes de interés,\nalimentaria. Se le realiza una endoscopia que presenta desde hace 3 meses unas lesiones\ndigestiva alta con toma de biopsias esofágicas. dolorosas en la boca (lengua, paladar, mucosa\n¿Con qué diagnóstico es compatible esta biopsia oral) que no han mejorado a pesar de haber\nde esófago proximal?: realizado múltiples tratamientos tópicos. Las\nlesiones le dificultan la ingesta y refiere haber\n1. Esofagitis por reflujo. perdido 7 kg de peso. En las últimas semanas le\n2. Esófago de Barrett. han aparecido unas lesiones en el tronco y en la\n3. Esofagitis eosinofílica. exploración se observan varias erosiones y\n4. Esofagitis por Candida. alguna costra. Al frotar alrededor de las\nerosiones la piel vecina se despega fácilmente.\n3. Pregunta vinculada a la imagen nº3 ¿Cuál de los siguientes hallazgos NO\nencontraríamos en esta paciente?:\nHombre de 67 años con debilidad muscular\nproximal de extremidades inferiores de 9 meses\n1. Depósitos de IgG y C3 en la membrana basal.\nde evolución. No refiere ingesta de fármacos ni\n2. Depósitos de IgG y C3 intercelulares.\nantecedentes familiares de enfermedades\n3. Anticuerpos frente a la desmogleína 1.\nneuromusculares. En la exploración física se\n4. Anticuerpos frente a la desmogleína 3.\nobserva debilidad muscular asimétrica de\nambos cuádriceps (3/5 izquierdo, 4/5 derecho) y",
+      "optionCount": 4,
+      "options": [
+        "1) Esofagitis por reflujo. perdido 7 kg de peso. En las últimas semanas le",
+        "2) Esófago de Barrett. han aparecido unas lesiones en el tronco y en la",
+        "3) Esofagitis eosinofílica. exploración se observan varias erosiones y",
+        "4) Esofagitis por Candida. alguna costra. Al frotar alrededor de las"
+      ],
+      "validationStatus": "quarantined",
+      "errors": [
+        "truncated-question",
+        "missing-answer"
+      ],
+      "quality": {
+        "textCompleteness": 1,
+        "questionBoundaryConfidence": 0.5,
+        "optionCompleteness": null,
+        "answerKeyConfidence": 0,
+        "layoutConfidence": 0.8,
+        "overallConfidence": 0.493,
+        "missingComponents": [
+          "optionCompleteness"
+        ],
+        "notes": [
+          "La página no declara geometría."
+        ]
+      },
+      "provenance": {
+        "sourceDocumentId": "pdfdoc_7df230b6810f8bd67ce9",
+        "documentVersionId": "pdfdoc_7df230b6810f8bd67ce9-v1",
+        "page": 3,
+        "pageEnd": 3
+      },
+      "detectedAnswer": null
+    },
+    {
+      "questionNumber": 6,
+      "rawText": "6. Pregunta vinculada a la imagen nº6\nde los músculos flexores de los dedos de ambas\nmanos. En la analítica destaca una CK de 750 Paciente de 25 años con crisis epilépticas desde\nUI/L (valor normal <150 UI/L). Se realiza una hace 1 año, en tratamiento con carbamazepina y\nbiopsia del músculo cuádriceps derecho. fenitoína, que por falta de respuesta se cambió\nMarque la opción correcta: hace dos semanas a lamotrigina. Consulta por\nlesiones cutáneas que comenzaron hace 24\n1. Infiltrado inflamatorio perimisial, ragged-red horas con edema facial, y que posteriormente se\nfibers (fibras rojo-rotas) y atrofia generalizaron en forma de rash eritematoso\nperifascicular: Dermatomiositis. máculopapular. Presenta mal estado general,\n2. Infiltrado inflamatorio endomisial y vacuolas poliadenopatías y fiebre de 38,5°C. En la\nribeteadas: Miositis con cuerpos de inclusión. FSE MEDICINA 2019/20analítica destaca GOT 230 U/L, GPT 253 U/L,\n3. Necrosis coagulativa, inclusiones lipídicas y GGT 145 U/L y eosinofilia de 1200 / μL. El\nregeneración de fibras musculares: Miopatía diagnóstico más probable es:\nnecrosante autoinmune.\n4. Atrofia de fibras tipo II, infiltrado 1. Sarampión.\ninflamatorio endomisial y regeneración de 2. Síndrome DRESS.\nfibras musculares: Distrofia miotónica de 3. Síndrome de Stevens Johnson.\nSteinert. 4. Angioedema.\n-",
+      "optionCount": 4,
+      "options": [
+        "1) Infiltrado inflamatorio perimisial, ragged-red horas con edema facial, y que posteriormente se",
+        "2) Infiltrado inflamatorio endomisial y vacuolas poliadenopatías y fiebre de 38,5°C. En la",
+        "3) Necrosis coagulativa, inclusiones lipídicas y GGT 145 U/L y eosinofilia de 1200 / μL. El",
+        "4) Atrofia de fibras tipo II, infiltrado 1. Sarampión."
+      ],
+      "validationStatus": "quarantined",
+      "errors": [
+        "truncated-question",
+        "missing-answer"
+      ],
+      "quality": {
+        "textCompleteness": 1,
+        "questionBoundaryConfidence": 0.5,
+        "optionCompleteness": null,
+        "answerKeyConfidence": 0,
+        "layoutConfidence": 0.8,
+        "overallConfidence": 0.493,
+        "missingComponents": [
+          "optionCompleteness"
+        ],
+        "notes": [
+          "La página no declara geometría."
+        ]
+      },
+      "provenance": {
+        "sourceDocumentId": "pdfdoc_7df230b6810f8bd67ce9",
+        "documentVersionId": "pdfdoc_7df230b6810f8bd67ce9-v1",
+        "page": 3,
+        "pageEnd": 3
+      },
+      "detectedAnswer": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 364 >>
+stream
+BT /F1 9 Tf 1 0 0 1 50 810 Tm (EXAMEN DEMO - CABECERA) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 760 Tm (1. Pregunta DEMO con cabecera y pie.) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 738 Tm (A\) Opcion A) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 716 Tm (B\) Opcion B) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 694 Tm (Respuesta correcta: A) Tj ET
+BT /F1 9 Tf 1 0 0 1 50 40 Tm (Pagina 1 de 2 - PIE DEMO) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 372 >>
+stream
+BT /F1 9 Tf 1 0 0 1 50 810 Tm (EXAMEN DEMO - CABECERA) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 760 Tm (2. Segunda pregunta DEMO con cabecera y pie.) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 738 Tm (A\) Opcion A) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 716 Tm (B\) Opcion B) Tj ET
+BT /F1 11 Tf 1 0 0 1 50 694 Tm (Respuesta correcta: B) Tj ET
+BT /F1 9 Tf 1 0 0 1 50 40 Tm (Pagina 2 de 2 - PIE DEMO) Tj ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000344 00000 n 
+0000000758 00000 n 
+0000000884 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+1306
+%%EOF

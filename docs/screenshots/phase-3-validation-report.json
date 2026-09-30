@@ -1,0 +1,112 @@
+{
+  "searchOpens": {
+    "dialogOpen": true
+  },
+  "searchResults": {
+    "groupedTopics": true,
+    "foundTopic": true
+  },
+  "searchNavigation": {
+    "hash": "#subjects",
+    "dialogClosed": true
+  },
+  "editorCreate": {
+    "stored": true,
+    "origin": "manual",
+    "subject": "cardiologia",
+    "listed": true
+  },
+  "editorUpdate": {
+    "updated": true
+  },
+  "editorDelete": {
+    "before": 1,
+    "after": 0
+  },
+  "examStart": {
+    "running": true,
+    "blankOptionCount": 4
+  },
+  "examAnswers": {
+    "resultShown": true,
+    "exams": 1,
+    "attempts": 2,
+    "errors": 2,
+    "flashcards": 2,
+    "precisionText": false
+  },
+  "predictPanel": {
+    "panel": true,
+    "comingSoon": true,
+    "noNumbers": true
+  },
+  "routes": [
+    {
+      "route": "#dashboard",
+      "overflow": false
+    },
+    {
+      "route": "#route",
+      "overflow": false
+    },
+    {
+      "route": "#subjects",
+      "overflow": false
+    },
+    {
+      "route": "#subject-detail",
+      "overflow": false
+    },
+    {
+      "route": "#library",
+      "overflow": false
+    },
+    {
+      "route": "#questions",
+      "overflow": false
+    },
+    {
+      "route": "#flashcards",
+      "overflow": false
+    },
+    {
+      "route": "#mocks",
+      "overflow": false
+    },
+    {
+      "route": "#atlas",
+      "overflow": false
+    },
+    {
+      "route": "#stats",
+      "overflow": false
+    },
+    {
+      "route": "#settings",
+      "overflow": false
+    }
+  ],
+  "desktopOverflow": false,
+  "persistedState": {
+    "schemaVersion": 2,
+    "attempts": 2,
+    "errors": 2,
+    "flashcards": 2,
+    "exams": 1
+  },
+  "consoleMessages": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    }
+  ],
+  "pageErrors": []
+}

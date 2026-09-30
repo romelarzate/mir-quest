@@ -1,0 +1,166 @@
+{
+  "questionsRendered": {
+    "hasStem": true,
+    "attemptsToday": false
+  },
+  "wrongAnswer": {
+    "incorrectStatus": true,
+    "errorOpened": true,
+    "flashcardCreated": true,
+    "markedIncorrect": true
+  },
+  "afterWrongAttempt": {
+    "attempts": 1,
+    "errors": 1,
+    "flashcards": 1,
+    "resolved": false,
+    "dueNow": true
+  },
+  "flashcardsQueue": {
+    "cardShown": true,
+    "revealAvailable": true,
+    "dueCount": true
+  },
+  "flashcardReview": {
+    "ratingUnlockedAfterReveal": true,
+    "savedMessage": true
+  },
+  "afterReview": {
+    "reps": 1,
+    "intervalDays": 2,
+    "dueInFuture": true
+  },
+  "persistenceAfterReload": {
+    "attempts": 1,
+    "flashcards": 1,
+    "errors": 1
+  },
+  "correctAnswer": {
+    "markedCorrect": true,
+    "recoveryMessage": true
+  },
+  "errorClosed": {
+    "resolved": true,
+    "attempts": 2
+  },
+  "settingsChange": {
+    "explanationsNow": false,
+    "themeNow": "dark"
+  },
+  "themeAfterReload": {
+    "theme": "dark",
+    "explanations": false,
+    "darkClass": true
+  },
+  "deferredExplanation": {
+    "checkButtonShown": true,
+    "onlyAfterCheck": true
+  },
+  "reset": {
+    "attempts": 0,
+    "errors": 0,
+    "flashcards": 0,
+    "themeKept": "dark"
+  },
+  "mobileRoutes": [
+    {
+      "route": "#dashboard",
+      "overflow": false
+    },
+    {
+      "route": "#route",
+      "overflow": false
+    },
+    {
+      "route": "#subjects",
+      "overflow": false
+    },
+    {
+      "route": "#subject-detail",
+      "overflow": false
+    },
+    {
+      "route": "#library",
+      "overflow": false
+    },
+    {
+      "route": "#questions",
+      "overflow": false
+    },
+    {
+      "route": "#flashcards",
+      "overflow": false
+    },
+    {
+      "route": "#mocks",
+      "overflow": false
+    },
+    {
+      "route": "#atlas",
+      "overflow": false
+    },
+    {
+      "route": "#stats",
+      "overflow": false
+    },
+    {
+      "route": "#settings",
+      "overflow": false
+    }
+  ],
+  "desktopOverflow": false,
+  "mobileDarkOverflow": false,
+  "cardiologyErrorsTab": {
+    "headingShown": true,
+    "entryShown": true,
+    "resolveButtonShown": true,
+    "resolvedInStore": true
+  },
+  "consoleMessages": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    }
+  ],
+  "pageErrors": []
+}

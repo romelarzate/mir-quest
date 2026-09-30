@@ -1,0 +1,117 @@
+{
+  "label": "DRY-RUN del arnes sobre fixture sintetico: NO es validacion de un PDF real",
+  "sourceKind": "synthetic-fixture",
+  "snapshot": {
+    "fileName": "multi-page.pdf",
+    "sizeBytes": 1930,
+    "sha256": "0c845479678b9616c795c20f2e6a5e22d2265c5d8d8b5a5d102d3c6374154696",
+    "pageCount": 3,
+    "processedAt": "2026-09-30T00:00:00.000Z",
+    "sourceKind": "synthetic-fixture",
+    "versions": {
+      "pdfjs": "6.3.289",
+      "documentSkill": "1.0.0",
+      "normalizer": "normalizer-1",
+      "extractor": "text-layer-extractor-v1"
+    },
+    "contentHash": "741404cae3d5539b0e5a484abb408ec7706b839ca9f2cec35d0c890954f47133"
+  },
+  "metrics": {
+    "pagesProcessed": 3,
+    "emptyPages": 0,
+    "markdownBlocks": 15,
+    "sourceCharacters": 305,
+    "markdownCharacters": 340,
+    "questionsDetected": 4,
+    "questionsAccepted": 3,
+    "questionsQuarantined": 1,
+    "questionsRejected": 0,
+    "documentAnomalies": 0,
+    "multiColumnPages": 0,
+    "pagesWithImages": 0,
+    "tableCandidates": 0
+  },
+  "loss": {
+    "preservedLines": 15,
+    "unlocatedLines": [],
+    "affectedPages": [],
+    "affectedBlocks": [],
+    "possibleReordering": [],
+    "duplicatedLines": [
+      "A) Opcion A",
+      "B) Opcion B",
+      "Respuesta correcta: A"
+    ],
+    "structuralBlocks": {
+      "uninterpreted": 0,
+      "figure": 0,
+      "tableRow": 0
+    },
+    "linesOnlyComparison": true,
+    "limitationNotes": [
+      "La comparacion por lineas no demuestra preservacion semantica: solo ausencia de perdida literal detectable.",
+      "Un fragmento puede estar presente y aun asi haberse reordenado o descontextualizado.",
+      "Los bloques no interpretados conservan su texto, pero su estructura original no se valida.",
+      "findLostSourceText devuelve lista vacia: es condicion necesaria, no suficiente."
+    ]
+  },
+  "readingOrder": [
+    {
+      "page": 1,
+      "status": "verified",
+      "reasons": [
+        "una columna, sin imagenes ni tablas y coordenadas Y monotonas"
+      ],
+      "columnsDetected": 1,
+      "images": 0,
+      "tableCandidates": 0
+    },
+    {
+      "page": 2,
+      "status": "verified",
+      "reasons": [
+        "una columna, sin imagenes ni tablas y coordenadas Y monotonas"
+      ],
+      "columnsDetected": 1,
+      "images": 0,
+      "tableCandidates": 0
+    },
+    {
+      "page": 3,
+      "status": "verified",
+      "reasons": [
+        "una columna, sin imagenes ni tablas y coordenadas Y monotonas"
+      ],
+      "columnsDetected": 1,
+      "images": 0,
+      "tableCandidates": 0
+    }
+  ],
+  "quarantineCount": 1,
+  "humanReviewRecords": 13,
+  "stages": [
+    {
+      "stage": "adapter",
+      "ok": true,
+      "summary": "3 paginas leidas"
+    },
+    {
+      "stage": "skill",
+      "ok": true,
+      "summary": "15 bloques"
+    },
+    {
+      "stage": "document-validation",
+      "ok": true,
+      "summary": "0 errores y 0 avisos"
+    },
+    {
+      "stage": "extraction",
+      "ok": true,
+      "summary": "4 preguntas detectadas"
+    }
+  ],
+  "warnings": [
+    "Dry-run: la fuente no es un PDF real autorizado, no constituye validacion real."
+  ]
+}

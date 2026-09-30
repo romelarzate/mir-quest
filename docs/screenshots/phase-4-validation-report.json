@@ -1,0 +1,101 @@
+{
+  "libraryRenders": {
+    "title": true,
+    "providerBanner": true,
+    "iaOff": true
+  },
+  "addDocument": {
+    "documents": 1,
+    "status": true,
+    "listed": true,
+    "schemaVersion": 3
+  },
+  "search": {
+    "stateOk": true,
+    "fragments": true,
+    "citationWithoutPage": true
+  },
+  "context": {
+    "built": true,
+    "citations": true,
+    "warning": true
+  },
+  "generation": {
+    "panel": true,
+    "notConnected": true,
+    "provenance": true
+  },
+  "workflow": {
+    "steps": true,
+    "progress": true,
+    "blocked": true
+  },
+  "routes": [
+    {
+      "route": "#dashboard",
+      "overflow": false
+    },
+    {
+      "route": "#route",
+      "overflow": false
+    },
+    {
+      "route": "#subjects",
+      "overflow": false
+    },
+    {
+      "route": "#subject-detail",
+      "overflow": false
+    },
+    {
+      "route": "#library",
+      "overflow": false
+    },
+    {
+      "route": "#questions",
+      "overflow": false
+    },
+    {
+      "route": "#flashcards",
+      "overflow": false
+    },
+    {
+      "route": "#mocks",
+      "overflow": false
+    },
+    {
+      "route": "#atlas",
+      "overflow": false
+    },
+    {
+      "route": "#stats",
+      "overflow": false
+    },
+    {
+      "route": "#settings",
+      "overflow": false
+    }
+  ],
+  "desktopOverflow": false,
+  "persisted": {
+    "documents": 1,
+    "status": "indexed",
+    "chunkCount": 1,
+    "isDemo": true
+  },
+  "consoleMessages": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    }
+  ],
+  "pageErrors": []
+}

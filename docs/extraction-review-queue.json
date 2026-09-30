@@ -1,0 +1,95 @@
+{
+  "summary": {
+    "total": 3,
+    "pending": 3,
+    "approved": 0,
+    "quarantined": 0,
+    "rejected": 0
+  },
+  "items": [
+    {
+      "index": 0,
+      "questionNumber": 1,
+      "page": 1,
+      "text": "1. Enunciado DEMO de la pregunta uno con longitud suficiente para pasar el minimo.\nA) Opcion A de la pregunta uno\nB) Opcion B de la pregunta uno\nC) Opcion C de la pregunta uno\nD) Opcion D de la pregunta uno\nRespuesta correcta: B",
+      "options": [
+        {
+          "label": "A",
+          "text": "pcion A de la pregunta uno"
+        },
+        {
+          "label": "B",
+          "text": "pcion B de la pregunta uno"
+        },
+        {
+          "label": "C",
+          "text": "pcion C de la pregunta uno"
+        },
+        {
+          "label": "D",
+          "text": "pcion D de la pregunta uno Respuesta correcta: B"
+        }
+      ],
+      "detectedAnswer": "B",
+      "confidence": 1,
+      "errors": [],
+      "extractionStatus": "accepted",
+      "decision": null,
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": null
+    },
+    {
+      "index": 1,
+      "questionNumber": 2,
+      "page": 1,
+      "text": "2. Enunciado DEMO de la pregunta dos con longitud suficiente para pasar el minimo.\nA) Opcion A de la pregunta dos\nB) Opcion B de la pregunta dos\nC) Opcion C de la pregunta dos\nD) Opcion D de la pregunta dos\nRespuesta: C",
+      "options": [
+        {
+          "label": "A",
+          "text": "pcion A de la pregunta dos"
+        },
+        {
+          "label": "B",
+          "text": "pcion B de la pregunta dos"
+        },
+        {
+          "label": "C",
+          "text": "pcion C de la pregunta dos"
+        },
+        {
+          "label": "D",
+          "text": "pcion D de la pregunta dos Respuesta: C"
+        }
+      ],
+      "detectedAnswer": "C",
+      "confidence": 0.925,
+      "errors": [],
+      "extractionStatus": "accepted",
+      "decision": null,
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": null
+    },
+    {
+      "index": 2,
+      "questionNumber": null,
+      "page": 2,
+      "text": "Esta página no contiene preguntas.",
+      "options": [],
+      "detectedAnswer": null,
+      "confidence": 0.375,
+      "errors": [
+        "invalid-question-number: Sin número de pregunta válido.",
+        "missing-options: Menos de dos opciones detectadas.",
+        "missing-answer: No se detectó respuesta correcta.",
+        "text-too-short: Texto por debajo de 40 caracteres."
+      ],
+      "extractionStatus": "quarantined",
+      "decision": null,
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": null
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "generatedAt": "2026-09-29T09:00:00.000Z",
+  "document": {
+    "file": "fixture-normal.txt",
+    "sizeBytes": 1536,
+    "pages": 2,
+    "sha256": "d238231dd34de89d4f01874dd2793f8c7895539a81ef2a52f227578b7d3e6491",
+    "title": "Examen piloto DEMO (sintético)",
+    "documentId": "doc_c75760bdf77dade5d7dd",
+    "versionId": "docv_8aceee81808fc0d4a1d0",
+    "sourceId": "synthetic-text-source"
+  },
+  "totals": {
+    "totalPages": 2,
+    "pagesWithQuestions": 2,
+    "questionsDetected": 3,
+    "accepted": 2,
+    "quarantined": 1,
+    "rejected": 0,
+    "duplicateCandidates": 0
+  },
+  "validationErrors": {
+    "invalid-question-number": 1,
+    "missing-options": 1,
+    "missing-answer": 1,
+    "text-too-short": 1
+  },
+  "qualityDistribution": {
+    "0.8-1.0": 2,
+    "0.2-0.4": 1
+  },
+  "metrics": {
+    "extractionAcceptanceRate": 0.667,
+    "quarantineRate": 0.333,
+    "rejectionRate": 0,
+    "optionDetectionRate": 0.667,
+    "answerDetectionRate": 0.667,
+    "sequenceIntegrityRate": 1
+  },
+  "metricsDisclaimer": "Son tasas de resultado del pipeline sobre un examen sintetico, no precision del extractor: todavia no existe ground truth humano.",
+  "questions": [
+    {
+      "index": 0,
+      "questionNumber": 1,
+      "page": 1,
+      "status": "accepted",
+      "confidence": 1,
+      "qualityBucket": "0.8-1.0",
+      "optionCount": 4,
+      "detectedAnswer": "B",
+      "duplicateCandidate": false,
+      "splitAcrossPages": false,
+      "errorCodes": [],
+      "textPreview": "1. Enunciado DEMO de la pregunta uno con longitud suficiente para pasar el minimo.\nA) Opcion A de la pregunta uno\nB) Opc"
+    },
+    {
+      "index": 1,
+      "questionNumber": 2,
+      "page": 1,
+      "status": "accepted",
+      "confidence": 0.925,
+      "qualityBucket": "0.8-1.0",
+      "optionCount": 4,
+      "detectedAnswer": "C",
+      "duplicateCandidate": false,
+      "splitAcrossPages": false,
+      "errorCodes": [],
+      "textPreview": "2. Enunciado DEMO de la pregunta dos con longitud suficiente para pasar el minimo.\nA) Opcion A de la pregunta dos\nB) Opc"
+    },
+    {
+      "index": 2,
+      "questionNumber": null,
+      "page": 2,
+      "status": "quarantined",
+      "confidence": 0.375,
+      "qualityBucket": "0.2-0.4",
+      "optionCount": 0,
+      "detectedAnswer": null,
+      "duplicateCandidate": false,
+      "splitAcrossPages": false,
+      "errorCodes": [
+        "invalid-question-number",
+        "missing-options",
+        "missing-answer",
+        "text-too-short"
+      ],
+      "textPreview": "Esta página no contiene preguntas."
+    }
+  ],
+  "pageErrors": [],
+  "selection": [
+    "Archivo: fixture-normal.txt",
+    "Tamano: 1536 bytes",
+    "Paginas: 2",
+    "SHA-256: d238231dd34de89d4f01874dd2793f8c7895539a81ef2a52f227578b7d3e6491",
+    "Documento: doc_c75760bdf77dade5d7dd",
+    "Version: docv_8aceee81808fc0d4a1d0",
+    "Opciones declaradas por pregunta: 4"
+  ]
+}

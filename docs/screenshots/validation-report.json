@@ -1,0 +1,131 @@
+{
+  "desktop": {
+    "title": "MIR Quest 2027",
+    "url": "http://127.0.0.1:5173/#dashboard",
+    "text": "MIR QUEST\nMIR Quest 2027\nDashboard\nRuta MIR\nAsignaturas\nBiblioteca\nPreguntas\nFlashcards\nSimulacros\nTutor ATLAS\nEstadísticas\nAjustes\nSiguiente mejor acción\n\nPracticar 20 preguntas de insuficiencia cardíaca y convertir los errores en flashcards.\n\nPROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nCENTRO DE MANDO\n\nDashboard MIR\nDEMO\n\nSIGUIENTE MEJOR ACCIÓN\n\nEmpezar sesión de Cardiología\n\nPracticar 20 preguntas de insuficiencia cardíaca y convertir los errores en flashcards.\n\nEmpezar sesión\n\nNetas estimadas\n\n138,4\n\nEstimación DEMO de las últimas 6 semanas\n\nCalculada con precisión, volumen reciente y tendencia m",
+    "scrollWidth": 1265,
+    "clientWidth": 1265,
+    "scrollHeight": 1089,
+    "clientHeight": 720,
+    "horizontalOverflow": false,
+    "bottomNavVisible": true
+  },
+  "mobile": {
+    "title": "MIR Quest 2027",
+    "url": "http://127.0.0.1:5173/#dashboard",
+    "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nCENTRO DE MANDO\n\nDashboard MIR\nDEMO\n\nSIGUIENTE MEJOR ACCIÓN\n\nEmpezar sesión de Cardiología\n\nPracticar 20 preguntas de insuficiencia cardíaca y convertir los errores en flashcards.\n\nEmpezar sesión\n\nNetas estimadas\n\n138,4\n\nEstimación DEMO de las últimas 6 semanas\n\nCalculada con precisión, volumen reciente y tendencia mock de simulacros cortos. No es una predicción real.\n\nS-6\nS-5\nS-4\nS-3\nS-2\nS-1\nHoy\n110\n120\n130\n140\n150\n\nProgreso global MIR\n\n42%\n\n1.226 tareas completadas\n\nRacha\n\n18 días\n\nObjetivo diario cubierto\n\nXP\n\n12.840\n\nNivel 17 - Residente Alfa\n\nNetas est",
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "scrollHeight": 2391,
+    "clientHeight": 844,
+    "horizontalOverflow": false,
+    "bottomNavVisible": true
+  },
+  "dark": {
+    "title": "MIR Quest 2027",
+    "url": "http://127.0.0.1:5173/#dashboard",
+    "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nCENTRO DE MANDO\n\nDashboard MIR\nDEMO\n\nSIGUIENTE MEJOR ACCIÓN\n\nEmpezar sesión de Cardiología\n\nPracticar 20 preguntas de insuficiencia cardíaca y convertir los errores en flashcards.\n\nEmpezar sesión\n\nNetas estimadas\n\n138,4\n\nEstimación DEMO de las últimas 6 semanas\n\nCalculada con precisión, volumen reciente y tendencia mock de simulacros cortos. No es una predicción real.\n\nS-6\nS-5\nS-4\nS-3\nS-2\nS-1\nHoy\n110\n120\n130\n140\n150\n\nProgreso global MIR\n\n42%\n\n1.226 tareas completadas\n\nRacha\n\n18 días\n\nObjetivo diario cubierto\n\nXP\n\n12.840\n\nNivel 17 - Residente Alfa\n\nNetas est",
+    "scrollWidth": 390,
+    "clientWidth": 390,
+    "scrollHeight": 2391,
+    "clientHeight": 844,
+    "horizontalOverflow": false,
+    "bottomNavVisible": true
+  },
+  "moreMenu": {
+    "open": false,
+    "items": true
+  },
+  "routeResults": [
+    {
+      "url": "http://127.0.0.1:5173/#route",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nPLAN LONGITUDINAL\n\nRuta MIR\nBase clínica\n\nCardiología, Infecciosas, Preventiva\n\nEn curso\nConsolidación\n\nErrores frecuentes y repasos activos\n\nPróxima\nSimulacros largos\n\nActivar tras 6"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#subjects",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\n36 ASIGNATURAS MIR\n\nAsignaturas\nBuscar por nombre\nBloque\nTodos\nMedicina\nClínica\nQuirúrgica\nSalud pública\nBásicas\nDiagnóstico\nTransversal\nPrioridad\nTodas\nAlta\nMedia\nBaja\nOrdenar por\npr"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#subject-detail",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nDETALLE DE ASIGNATURA\n\nCardiología\nVolver a Asignaturas\nInicio\nManual\nResúmenes\nIntocables\nDesgloses\nImágenes\nFlashcards\nAutoevaluación\nErrores\nPredict\n\nEjemplo principal DEMO\n\n68%\n\nP"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#library",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nBIBLIOTECA\n\nBiblioteca clínica\nSubida PDF mock\n\nUI preparada para subir material propio, sin procesamiento real, sin File Search y sin envío externo en Fase 1.\n\nSeleccionar PDF DEMO\n\n"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#questions",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nBANCO DE PREGUNTAS\n\nPregunta tipo MIR\nGeneral DEMO\nDificultad media\n\nDEMO MIR: Varón de 64 años con disnea progresiva, FEVI 32%, bloqueo de rama izquierda y QRS 160 ms pese a tratamie"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#flashcards",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nREPASO ESPACIADO\n\nFlashcards\nDEMO vencida\nCriterio clave de resincronización cardíaca\n\nFEVI reducida, síntomas pese a tratamiento óptimo, QRS ancho y patrón compatible, especialmente "
+    },
+    {
+      "url": "http://127.0.0.1:5173/#mocks",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nSIMULACROS\n\nConfiguración y resultados\nNuevo simulacro DEMO\n50 preguntas\nTodas las asignaturas\nModo cronometrado\nCorrección razonada\nIniciar simulacro mock\n\nConfiguración lista. Simul"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#atlas",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nTUTOR IA MOCK\n\nTutor ATLAS\nATLAS DEMO\n\nSin llamadas reales a Gemini ni servicios externos.\n\nATLAS, ¿por qué IECA mejora pronóstico en insuficiencia cardíaca?\nDEMO: reduce activación n"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#stats",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nANALÍTICA\n\nEstadísticas\nPreguntas por día\nLun\nMar\nMié\nJue\nVie\nDom\n0\n40\n80\n120\n160\nPrecisión semanal\nLun\nMar\nMié\nJue\nVie\nDom\n0\n20\n40\n60\n80\n\nMÁS MÓDULOS\n\nPreguntas\nFlashcards\nSimulacros"
+    },
+    {
+      "url": "http://127.0.0.1:5173/#settings",
+      "horizontalOverflow": false,
+      "bottomNavVisible": true,
+      "title": "MIR Quest 2027",
+      "text": "PROTOTIPO V0.1 DEMO\n\nMIR Quest 2027\n\nPREFERENCIAS\n\nAjustes\nRecordatorios\n\nUI mock para racha, repasos y simulacros.\n\nIntegraciones futuras\n\nFirebase, Gemini, File Search y Predict quedan desactivados.\n\nPrivacidad\n\nSin cl"
+    }
+  ],
+  "buttonChecks": [
+    true,
+    true,
+    true
+  ],
+  "consoleMessages": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    }
+  ],
+  "pageErrors": []
+}

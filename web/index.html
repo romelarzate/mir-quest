@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // Restaura el tema antes del primer render para evitar parpadeo.
+      ;(() => {
+        const prefersDark = window.matchMedia?.('(prefers-color-scheme: dark)').matches
+        let theme = null
+        try {
+          const raw = localStorage.getItem('mir-quest-state')
+          if (raw) {
+            const parsed = JSON.parse(raw)
+            if (parsed && parsed.settings && typeof parsed.settings.theme === 'string') {
+              theme = parsed.settings.theme
+            }
+          }
+          if (!theme) {
+            theme = localStorage.getItem('mir-quest-theme')
+          }
+        } catch {
+          theme = null
+        }
+        const isDark = theme === 'dark' || ((!theme || theme === 'system') && prefersDark)
+        if (isDark) document.documentElement.classList.add('dark')
+      })()
+    </script>
+    <title>MIR Quest 2027</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

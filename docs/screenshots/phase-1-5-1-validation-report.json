@@ -1,0 +1,164 @@
+{
+  "desktop": {
+    "title": "MIR Quest 2027",
+    "horizontalOverflow": false
+  },
+  "mobile": {
+    "title": "MIR Quest 2027",
+    "horizontalOverflow": false
+  },
+  "darkMobile": {
+    "title": "MIR Quest 2027",
+    "horizontalOverflow": false
+  },
+  "blockCounts": {
+    "out": {
+      "todos": 36,
+      "medicina": 11,
+      "clinica": 7,
+      "quirurgica": 6,
+      "salud-publica": 3,
+      "basicas": 5,
+      "diagnostico": 2,
+      "transversal": 2
+    },
+    "clinicalOk": true,
+    "searchClinicalCount": 7,
+    "searchClinicalHighCount": 5,
+    "sliderComboCount": 5
+  },
+  "unavailableFeedback": true,
+  "moreChecks": {
+    "opened": true,
+    "closedByEscape": true,
+    "closedByOutside": true
+  },
+  "themeChecks": {
+    "fallbackPrefersDark": {
+      "dark": true,
+      "stored": "dark"
+    },
+    "toggledToLight": {
+      "dark": false,
+      "stored": "light"
+    },
+    "reloadKeptLight": {
+      "dark": false,
+      "stored": "light"
+    },
+    "explicitLightRestored": {
+      "dark": false,
+      "stored": "light"
+    }
+  },
+  "logoNames": [
+    "Ir al Dashboard de MIR Quest 2027"
+  ],
+  "routes": [
+    {
+      "url": "http://127.0.0.1:5174/#dashboard",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#route",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#subjects",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#subject-detail",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#library",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#questions",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#flashcards",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#mocks",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#atlas",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#stats",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    },
+    {
+      "url": "http://127.0.0.1:5174/#settings",
+      "horizontalOverflow": false,
+      "title": "MIR Quest 2027"
+    }
+  ],
+  "consoleMessages": [
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connecting..."
+    },
+    {
+      "type": "debug",
+      "text": "[vite] connected."
+    },
+    {
+      "type": "info",
+      "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"
+    }
+  ],
+  "pageErrors": [],
+  "tabsCheck": {
+    "overflowX": "auto",
+    "scrollbarWidth": "none",
+    "hasHiddenClass": true,
+    "hasSignal": true
+  },
+  "validationNotes": [
+    "Bloque clinica devuelve 7 asignaturas esperadas.",
+    "El texto del menú Más se renderiza visualmente como MÁS MÓDULOS por CSS uppercase.",
+    "El tema se restaura desde localStorage tras recargar y usa prefers-color-scheme cuando no hay preferencia guardada."
+  ]
+}
